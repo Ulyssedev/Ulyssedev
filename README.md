@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on any project involving one of those languages.
 - 📫 How to reach me : LowHigh#3269 on discord
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLowHigh)](https://github.com/anuraghazra/github-readme-stats)
+[![LowHigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLowHigh)](https://github.com/anuraghazra/github-readme-stats),prs&theme=onedark
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLowHigh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLowHigh&layout=compact)](https://github.com/anuraghazra/github-readme-stats),prs&theme=onedark
