@@ -9,3 +9,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLowHigh&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheLowHigh&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
