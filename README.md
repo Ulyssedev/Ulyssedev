@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheLowHigh
 - 👀 I’m interested in coding and automation.
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript, C# and Unity.
-- 💞️ I’m looking to collaborate on any project involving one of those languages.
+- 🤯 I’m looking to collaborate on any project involving one of those languages.
 - 📫 How to reach me : LowHigh#3269 on discord
 
 [![LowHigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLowHigh&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
