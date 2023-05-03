@@ -6,7 +6,7 @@
 ## Languages
 [![Languages](https://skillicons.dev/icons?i=python,rust,js,ts,html,css)](https://skillicons.dev)
 ## Libraries
-[![Libraries](https://skillicons.dev/icons?i=scss,tailwind,astro,vite,webpack,firebase,cloudflare,md,selenium,fastapi,actix)](https://skillicons.dev)
+[![Libraries](https://skillicons.dev/icons?i=scss,tailwind,astro,vite,webpack,firebase,cloudflare,md,selenium,fastapi,actix,tauri)](https://skillicons.dev)
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=docker,nginx,nodejs,git,github,linux,vscode,au,pr,ps)](https://skillicons.dev)
 
